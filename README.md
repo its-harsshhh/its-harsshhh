@@ -5,14 +5,19 @@
 
 <img align="right" alt="Coding" width="400" src="characterboy.png">
 
-- 🌱 I’m currently learning **Web-Development**
+- 🌱 I’m currently learning **Frontened-Development**
 
 - 📫 How to reach me **harshpal653@gmail.com**
 
 <h2>About me</h2>
 <ul>
-  <li>3D-Artist, I have Created more than 125+ 3D-Art's and posted on <a href="https://www.instagram.com/its_.harsshhh/">Instagram</a>, which includes motion-graphics videos as well as.</li></br>
-  <li>NFT-Artist, Mint my first artwork on <a href="https://foundation.app/@itsharsshhh">foundation.app</a> which is a platform for live auctions of digital art and NFTs.</li>
+  <li>3D-Artist, I have Created more than 125+ 3D-Art's and posted on <a href="https://www.instagram.com/its_.harsshhh/">Instagram</a>, which includes motion-graphics videos as well as.</li>
+  </br>
+  <li>NFT-Artist, Mint my first artwork on <a href="https://foundation.app/@itsharsshhh">foundation.app</a> which is a platform for live auctions of digital art and NFTs.</li></br>
+  <li> I am always ready to learn anything from anywhere. I believe in practicality and love to implement stuff.</li>
+</br>
+
+I would love to connect with you! Cheers!!
 </ul>
 
 <h3 align="left">Connect with me:</h3>
