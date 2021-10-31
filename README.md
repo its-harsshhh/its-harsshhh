@@ -9,6 +9,12 @@
 
 - 📫 How to reach me **harshpal653@gmail.com**
 
+<h2>About me</h2>
+<ul>
+  <li>3D-Artist, I have Created more than 125+ 3D-Art's and posted on <a href="https://www.instagram.com/its_.harsshhh/">Instagram</a>, which includes motion-graphics videos as well as.</li></br>
+  <li>NFT-Artist, Mint my first artwork on <a href="https://foundation.app/@itsharsshhh">foundation.app</a> which is a platform for live auctions of digital art and NFTs.</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/its-harsshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-harsshhh" height="30" width="40" /></a>
