@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="characterboy.png">
 
-- 🌱 I’m currently learning **Frontened-Development**
+- 🌱 I’m currently learning **Blockchain-Development**
 
 - 📫 How to reach me **harshpal653@gmail.com**
 
