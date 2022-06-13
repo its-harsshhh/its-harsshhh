@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A freshman at Computer Science Engineering Department with Specialization in Data Science, ABES Institute of Technology, Ghaziabad, India.</h3>
+<h3 align="center">A freshman at Computer Science Engineering Department with Specialization in Data Science, <br>ABES Institute of Technology, Ghaziabad, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-harsshhh&label=Profile%20views&color=0e75b6&style=flat" alt="its-harsshhh" /> </p>
 
