@@ -31,4 +31,4 @@ I would love to connect with you! Cheers!!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-harsshhh&show_icons=true&locale=en" alt="its-harsshhh" /></p>
 
-![snake gif](https://github.com/its-harsshhh/its-harsshhh/blob/output/github-contribution-grid-snake.gif)
+
