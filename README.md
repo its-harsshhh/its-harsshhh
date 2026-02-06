@@ -1,20 +1,52 @@
-<img width="1585" alt="cover" src="https://github.com/its-harsshhh/its-harsshhh/assets/91140636/0917df9c-9f59-4a3d-a7e8-fb80af93330f">
+# Hi, I’m Harsh 👋
 
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Branding - Visual Design - UI/UX Design - Graphic Design - Web Design - 3D Artist - Product Design</h3>
+Product designer building real products, learning in public, and experimenting with design + code.  
+Focused on UX, systems thinking, and shipping practical solutions.
 
-- 🔮 A Design Alchemist who loves design + code. Turning random ideas into stunning realities ✨
+---
 
-- Been diving into the visual vibe for over four+ years, always on a mission to make things look awesome, one pixel at a time.
+## What I do
+- Design end-to-end product experiences, from problem framing to final UI
+- Turn vague ideas into clear user flows and systems
+- Build small experiments to learn faster and validate ideas
+- Document learnings while working on real problems
 
-- ☕️ Wanna Discuss project idea?  [harshpal653@gmail.com](mailto:harshpal653@gmail.com)
-  
-- 📬 How to reach me: [X.com/Choley_Bhature](https://x.com/Choley_Bhature)
+---
 
-- 🌐 Let's Connect over Linkedin: [its-harsshh](https://www.linkedin.com/in/its-harsshhh/)
+## What I’m working on right now
+- Exploring how AI can assist product design and decision-making
+- Building small tools, concepts, and UX experiments
+- Improving my product thinking beyond screens and visuals
 
-- Checkout my Work: [its-harsshhh.notion](https://its-harsshhh.notion.site/Harsh-Pal-52f0519e07c34655bb9ff96a17ef744f?pvs=4)
+---
 
-<hr>
+## How I approach products
+- Start with user intent, not features
+- Think in systems, not just screens
+- Ship early, learn fast, iterate openly
+- Prefer clarity over cleverness
 
-<h4 align="center" style="font-family: 'Inter' ">"Design is not just what it looks like and feels like. Design is how it works. - by Steve Jobs"</h4>
+---
+
+## Repositories you’ll find here
+- Product and UX experiments
+- Learning projects and explorations
+- Design + code prototypes
+- Work-in-progress ideas and notes
+
+Most repos include:
+- Why I built it  
+- What I learned  
+- What I’d improve next  
+
+---
+
+## Links
+- Portfolio: https://its-harshhh.notion.site
+- LinkedIn: https://linkedin.com/in/its-harshhh
+- X (Twitter): https://x.com/Choley_Bhature
+- Email: harshpal653@gmail.com
+
+---
+
+> I believe good design is clear thinking made visible.
