@@ -42,8 +42,8 @@ Most repos include:
 ---
 
 ## Links
-- LinkedIn: https://linkedin.com/in/its-harshhh
-- X (Twitter): https://x.com/Choley_Bhature
+- LinkedIn: https://www.linkedin.com/in/its-harsshhh/
+- X : https://x.com/Choley_Bhature
 
 ---
 
