@@ -42,10 +42,8 @@ Most repos include:
 ---
 
 ## Links
-- Portfolio: https://its-harshhh.notion.site
 - LinkedIn: https://linkedin.com/in/its-harshhh
 - X (Twitter): https://x.com/Choley_Bhature
-- Email: harshpal653@gmail.com
 
 ---
 
